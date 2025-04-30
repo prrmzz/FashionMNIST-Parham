@@ -10,9 +10,4 @@ PyTorch implementation of a classifier for Fashion MNIST, leveraging CUDA for GP
 - **PyTorch** implementation with **CUDA** support
 - PreAct ResNet-18 architecture
 - Simple training pipeline
-- Achieves **89.4% accuracy** (initial version)
-
-## Quick Start
-```bash
-pip install torch torchvision
-python train.py
+- Achieves **89.4% accuracy** (initial version
